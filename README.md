@@ -40,6 +40,21 @@
 
 ---
 
+👉 🌹 Slider Without Title Bar 🌹
+
+ ![SliderA.png Settings](Images/SliderA.png)
+
+
+---
+
+👉 🌿 Slider With Title Bar 🌿
+
+
+ ![SliderB.png Settings](Images/SliderB.png)
+
+
+---
+
 🖥️ Compatibility & Deployment
 
 - ✅ Tested on Windows 10
