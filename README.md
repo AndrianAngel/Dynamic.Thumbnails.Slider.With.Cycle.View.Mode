@@ -72,3 +72,21 @@
 - Use KDE-style drag to reposition GUI overlays without relying on title bars
 
 ---
+
+😎 Demo Slider Without Title Bar 😎
+
+<video src="Images/Dynamic Slider.mp4" controls width="100%"></video>
+
+
+---
+
+🧐 Demo Slider With Title Bar 🧐
+
+
+<video src="Images/Dynamic Slider With Title Bar.mp4" controls width="100%"></video>
+
+
+---
+
+
+🌿🌹 Enjoy My Personnal Slider Tool 🌹🌿
