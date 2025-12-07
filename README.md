@@ -50,7 +50,7 @@
 👉 🌿 Slider With Title Bar 🌿
 
 
- ![SliderB.png Settings](Images/SliderB.png)
+ ![SlideB.png Settings](Images/SlideB.png)
 
 
 ---
