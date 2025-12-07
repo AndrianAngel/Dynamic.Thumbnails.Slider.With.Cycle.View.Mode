@@ -83,6 +83,9 @@
 🧐 Demo Slider With Title Bar 🧐
 
 
+[Dynamic Slider With Title Bar](Images/DynamicSliderWithTitleBar.gif)
+
+
 <video src="Images/Dynamic Slider With Title Bar.mp4" controls width="100%"></video>
 
 
