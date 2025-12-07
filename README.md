@@ -73,19 +73,10 @@
 
 ---
 
-😎 Demo Slider Without Title Bar 😎
-
-<video src="Images/Dynamic Slider.mp4" controls width="100%"></video>
-
-
----
 
 🧐 Demo Slider With Title Bar 🧐
 
 ![Dynamic_Slider_With_Title_Bar.gif Settings](Images/Dynamic_Slider_With_Title_Bar.gif)
-
-
-<video src="Images/Dynamic Slider With Title Bar.mp4" controls width="100%"></video>
 
 
 ---
