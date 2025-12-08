@@ -36,7 +36,7 @@
 |------------|-------------|
 | Dynamic.Thumbnails.Slider.With.Cycle.View.Mode.ahk | GUI overlay without title bar for a minimalist look. Ideal for embedding or floating overlays. |
 | Dynamic.Thumbnails.Slider.With.Cycle.View.Mode(With.Title.bar).ahk | GUI overlay with title bar for easier dragging and window management. |
-| Easy.Windows.Drag.KDE.Style.ahk | KDE-style drag behavior using Alt+Mouse gestures. Lets you move or resize any window, including the slider GUI without a title bar. |
+| Easy.Windows.Drag.KDE.Style.ahk | KDE-style drag behavior using Alt+Mouse gestures. Lets you move or resize any window, ,this tool gives you the ability to move the slider GUI without a title bar. |
 
 ---
 
