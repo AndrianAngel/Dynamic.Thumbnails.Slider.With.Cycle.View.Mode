@@ -69,7 +69,7 @@
 - Quickly toggle between Explorer views while browsing folders
 - Resize thumbnails dynamically for visual clarity or compactness
 - Integrate into custom desktop workflows or automation suites
-- Use KDE-style drag to reposition GUI overlays without relying on title bars
+- Use KDE-style drag to reposition GUI overlays without relying on title bars (Standalone script)
 
 ---
 
@@ -82,4 +82,4 @@
 ---
 
 
-🌿🌹 Enjoy My Personnal Slider Tool 🌹🌿
+🌿🌹 Enjoy My Personal Slider Tool 🌹🌿
