@@ -91,7 +91,7 @@ Press Ctrl+D to enable/disable debug logging on-the-fly.
 
 ---
 
-📌 Why It's Useful:
+📌 Why It's Useful ?
 
 -Troubleshoot why buttons might not work on your system
 -Verify which Explorer window is being targeted
