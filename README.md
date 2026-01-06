@@ -62,11 +62,11 @@ The new version features dark-themed buttons using Windows' native dark mode sty
 
 ## 📜 This provides:
 ---
--🌙 Consistent dark UI appearance
--👁️ Better visual comfort
--🎯 Modern, professional look
--🔄 Native Windows theming
--🐞 Debug Mode Features
+- 🌙 Consistent dark UI appearance
+- 👁️ Better visual comfort
+- 🎯 Modern, professional look
+- 🔄 Native Windows theming
+- 🐞 Debug Mode Features
 
 ---
 
@@ -82,11 +82,11 @@ Press Ctrl+D to enable/disable debug logging on-the-fly.
 ---
 
 ## 📣 What Debug Mode Shows:
--📝 Detailed operation logs via OutputDebug
--💬 Real-time tooltips showing current actions
--🔍 COM window detection status
--⚠️ Error messages with specific failure reasons
--✅ Success confirmations
+- 📝 Detailed operation logs via OutputDebug
+- 💬 Real-time tooltips showing current actions
+- 🔍 COM window detection status
+- ⚠️ Error messages with specific failure reasons
+- ✅ Success confirmations
 
 
 ---
@@ -104,9 +104,9 @@ Press Ctrl+D to enable/disable debug logging on-the-fly.
 
 ##⌨️Hotkey Function
 
--Ctrl+F12 : Toggle GUI visibility
--Ctrl+W : Cycle through view modes
--Ctrl+D : Toggle debug mode
+- Ctrl+F12 : Toggle GUI visibility
+- Ctrl+W : Cycle through view modes
+- Ctrl+D : Toggle debug mode
 
 ---
 
@@ -176,7 +176,8 @@ Start with debug mode OFF for normal use. If you encounter any issues with the b
 
 🖥️ Compatibility & Deployment
  - ✅ Tested on Windows 10
-- ✅ Confirmed working on Windows 11
+
+✅ Confirmed working on Windows 11
 - 🛠️ Available as both .ahk source and .exe binaries for each tool
 - 🧩 Designed for modular use—combine or run standalone
 
