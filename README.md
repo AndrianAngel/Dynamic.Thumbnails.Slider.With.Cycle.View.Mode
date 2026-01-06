@@ -57,13 +57,10 @@ The debug version implements:
 ## 🎨 Dark Mode Buttons
 The new version features dark-themed buttons using Windows' native dark mode styling:
 
-```autohotkey
-DllCall("UxTheme\SetWindowTheme", "Ptr", hBtn, "Str", "DarkMode_Explorer", "Ptr", 0)
-
  
 ---
 
-## This provides:
+## 📜 This provides:
 ---
 -🌙 Consistent dark UI appearance
 -👁️ Better visual comfort
