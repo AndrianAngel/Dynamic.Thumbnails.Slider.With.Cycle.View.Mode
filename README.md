@@ -91,7 +91,7 @@ Press Ctrl+D to enable/disable debug logging on-the-fly.
 
 ---
 
-📌 Why It's Useful ?
+## 📌 Why It's Useful ?
 
 -Troubleshoot why buttons might not work on your system
 -Verify which Explorer window is being targeted
@@ -110,7 +110,7 @@ Press Ctrl+D to enable/disable debug logging on-the-fly.
 
 ---
 
-💡 Recommendation
+## 💡 Recommendation
 
 Start with debug mode OFF for normal use. If you encounter any issues with the buttons or view mode switching, press Ctrl+D to enable debugging and observe what's happening. This helps diagnose system-specific compatibility issues! 
 
@@ -121,7 +121,7 @@ Start with debug mode OFF for normal use. If you encounter any issues with the b
 
 🌿⚡ This AutoHotkey-based utility offers a sleek, real-time GUI overlay for controlling Windows Explorer view modes and thumbnail sizes. Designed for power users and customization enthusiasts, it includes three modular scripts—each with compiled .exe and editable .ahk versions—for flexible deployment and integration.
 
-🌹🔧 Features Overview 🌹
+## 🌹🔧 Features Overview 🌹
 
 - Dynamic Thumbnail Resizing  
   A horizontal slider lets you adjust thumbnail size from 16px to 256px in real time. The slider is:
@@ -149,7 +149,7 @@ Start with debug mode OFF for normal use. If you encounter any issues with the b
 
 ---
 
-📦 Included Scripts
+## 📦 Included Scripts
 
 | Script Name | Description |
 |------------|-------------|
@@ -159,14 +159,14 @@ Start with debug mode OFF for normal use. If you encounter any issues with the b
 
 ---
 
-👉 🌹 Slider Without Title Bar 🌹
+## 👉 🌹 Slider Without Title Bar 🌹
 
  ![SliderA.png Settings](Images/SliderA.png)
 
 
 ---
 
-👉 🌿 Slider With Title Bar 🌿
+## 👉 🌿 Slider With Title Bar 🌿
 
 
  ![SlideB.png Settings](Images/SlideB.png)
@@ -183,7 +183,7 @@ Start with debug mode OFF for normal use. If you encounter any issues with the b
 
 ---
 
-💡 Use Cases
+## 💡 Use Cases
 
 - Quickly toggle between Explorer views while browsing folders
 - Resize thumbnails dynamically for visual clarity or compactness
@@ -193,7 +193,7 @@ Start with debug mode OFF for normal use. If you encounter any issues with the b
 ---
 
 
-🧐 Demo Slider With Title Bar 🧐
+## 🧐 Demo Slider With Title Bar 🧐
 
 ![Dynamic_Slider_With_Title_Bar.gif Settings](Images/Dynamic_Slider_With_Title_Bar.gif)
 
