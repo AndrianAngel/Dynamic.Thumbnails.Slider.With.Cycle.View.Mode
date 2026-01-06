@@ -1,5 +1,15 @@
 🔥🔥 Dynamic Thumbnails Slider with Cycle View Mode 🔥🔥
 
+---
+
+🎯 New Debugged Version is Out 🎯
+
+
+
+![A7 Settings](Images/A7.png)
+
+---
+
 🌿⚡ This AutoHotkey-based utility offers a sleek, real-time GUI overlay for controlling Windows Explorer view modes and thumbnail sizes. Designed for power users and customization enthusiasts, it includes three modular scripts—each with compiled .exe and editable .ahk versions—for flexible deployment and integration.
 
 🌹🔧 Features Overview 🌹
